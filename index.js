@@ -9,10 +9,10 @@
 // input.addEventListener('keydown', e => console.log(e.which))
 
 
-const input = document.querySelector('input')
+// const input = document.querySelector('input')
  
-input.addEventListener('keydown', e => {
-  if (e.which === 71) {
-    return e.preventDefault()
-  }
-})
+// input.addEventListener('keydown', e => {
+//   if (e.which === 71) {
+//     return e.preventDefault()
+//   }
+// })
